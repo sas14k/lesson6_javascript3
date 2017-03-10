@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 10, 2017
 
 ### Student Name:  
-(First and Last Name)
+Shaun Strickland
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The project required students to use JavaScript and HTML DOM to create a photo gallery. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sas14k.github.io/lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned the structure and functions of the Browser Object Model.
+2. I learned the structure and functions of the Document Object Model. 
+3. I learned how to access document elements by both id value and Tag name.
